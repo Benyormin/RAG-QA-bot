@@ -14,7 +14,7 @@ It uses:
 ---
 ## Demo
 
-  ![Demo](RAG2-gif.gif)
+![Demo](RAG2-gif.gif)
   
 ## 📂 Dataset
 
