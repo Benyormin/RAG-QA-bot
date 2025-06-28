@@ -2,4 +2,4 @@
 
 
 
-![Demo](Rag2-gif.gif)
+![Demo](RAG2-gif.gif)
